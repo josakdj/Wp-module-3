@@ -1,8 +1,8 @@
-# Module 2
+# Module 3
 
-### Basic theme functionality, Including CSS & JS
+### PHP if statements, switch and loops
 
-<img width="300" height="400" alt="16" src="https://github.com/user-attachments/assets/5c9365fb-6128-4665-897d-5b2404ab7591" />
+<img width="300" height="400" alt="16" src="https://github.com/user-attachments/assets/5ed6d5de-97b4-4b3e-9b20-7b0f1702a8ee" />
 ____________________________________________________________________________________________________________________________
 
 ### ●  If statements
