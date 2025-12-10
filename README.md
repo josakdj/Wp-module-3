@@ -1,14 +1,16 @@
 # Module 3
 
-### PHP if statements, switch and loops
+### Create and use menus
 
-<img width="300" height="400" alt="16" src="https://github.com/user-attachments/assets/5ed6d5de-97b4-4b3e-9b20-7b0f1702a8ee" />
+<img width="300" height="400" alt="16" src="https://github.com/user-attachments/assets/63d8d813-899d-4cb0-bfd8-80a2904f5cdb" />
 ____________________________________________________________________________________________________________________________
 
-### ●  If statements
+### ● Register menu function
 
-### ● Switch
+### ● Create menu in dashboard
 
-### ● Loops
+### ● Render menu
 
-### ● For Loops
+### ● Post loop
+
+### ● Custom body classes
